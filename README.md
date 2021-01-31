@@ -3,5 +3,5 @@
 
 
 
-# Hidenori and Yoshitake
+ Hidenori and Yoshitake
 
